@@ -1,6 +1,6 @@
 # WordleCracker
-## Specialized for 5 words wordle
-## Enter 0-4 for operations
+-- Specialized for 5 words wordle
+-- Enter 0-4 for operations
 - 0: leave
 - 1:correct position
 - 2:incorrect position
