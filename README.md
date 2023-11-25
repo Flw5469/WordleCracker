@@ -16,6 +16,6 @@
     output:
     Words that matches the existing hints
 ## Credit:
-Dictionary for the 5 letter words
-https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt
+   Dictionary for the 5 letter words
+   https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt
 
