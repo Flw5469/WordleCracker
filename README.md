@@ -1,3 +1,4 @@
+
 # WordleCracker
 ## Description:
 * Specialized for 5 words wordle, terminal based
@@ -16,6 +17,6 @@
     output:
     Words that matches the existing hints
 ## Credit:
-   Dictionary for the 5 letter words
+Dictionary for the 5 letter words: 
    https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt
 
