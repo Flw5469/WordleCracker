@@ -6,3 +6,7 @@
     * 2:incorrect position
     * 3:character dne
     * 4:handle 5 character (an entry) at same time
+* Example:
+   *4
+   *ninja
+   *10233
